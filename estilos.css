@@ -24,3 +24,7 @@ h1 {
 main {
     background-color: rgb(255, 236, 212);
 }
+
+table {
+    width: 100%;
+}
