@@ -11,6 +11,10 @@ body {
     background-color: rgb(255, 236, 213);
 }
 
+header {
+    background-color: rgb(241, 218, 190);
+}
+
 h1 {
     font-size: 45px;
     color: rgb(255, 153, 0);
