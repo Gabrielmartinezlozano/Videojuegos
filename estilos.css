@@ -10,3 +10,9 @@ img.inicio {
 body {
     background-color: rgb(255, 236, 213);
 }
+
+h1 {
+    font-size: 25px;
+    color: rgb(255, 153, 0);
+    font-style: Arial, sans-serif;
+}
