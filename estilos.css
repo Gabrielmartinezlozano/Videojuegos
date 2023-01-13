@@ -7,11 +7,11 @@ img.inicio {
     background-color: ;
 }
 
-body {
+body.inicio {
     background-color: rgb(255, 255, 255);
 }
 
-header {
+header.inicio {
     background-color: rgb(241, 218, 190);
 }
 
@@ -21,7 +21,7 @@ h1 {
     font-style: Comic, Arial,
 }
 
-main {
+main.inicio {
     background-color: rgb(255, 236, 212);
 }
 
