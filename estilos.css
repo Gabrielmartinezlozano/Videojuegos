@@ -29,3 +29,8 @@ table {
     width: 100%;
     text-align: center;
 }
+.clase2 {
+    font-size: 20px;
+    color: black;
+    font-style: "Lucida Console"; Monaco; monospace; serif
+}
