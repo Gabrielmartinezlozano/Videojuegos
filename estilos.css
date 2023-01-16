@@ -15,6 +15,14 @@ header.inicio {
     background-color: rgb(241, 218, 190);
 }
 
+header.play{
+    background-color: rgb(252, 255, 104);
+}
+
+main.play{
+    background-color: rgb(2, 255, 179);
+}
+
 h1 {
     font-size: 45px;
     color: rgb(255, 153, 0);
