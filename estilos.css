@@ -20,7 +20,8 @@ header.play{
 }
 
 main.play{
-    background-color: rgb(2, 255, 179);
+    background-color: rgb(122, 255, 215);
+    height: 100%;
 }
 
 h1 {
