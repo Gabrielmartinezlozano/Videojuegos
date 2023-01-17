@@ -70,3 +70,19 @@ img.pequeña {
     height: 15px;
     width: 15px;
 }
+
+header.xbox{
+    background-color: rgb(225, 255, 218);
+}
+
+main.xbox{
+    background-color: rgb(206, 255, 132);
+}
+
+header.pc{
+    background-color: beige;
+}
+
+main.pc{
+    background-color: rgb(117, 117, 117);
+}
