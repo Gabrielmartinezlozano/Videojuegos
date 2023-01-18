@@ -15,11 +15,11 @@ header.inicio {
     background-color: rgb(241, 218, 190);
 }
 
-header.play{
+header.play {
     background-color: rgb(252, 255, 104);
 }
 
-main.play{
+main.play {
     background-color: rgb(122, 255, 215);
     height: 100%;
 }
@@ -71,18 +71,22 @@ img.pequeña {
     width: 15px;
 }
 
-header.xbox{
+header.xbox {
     background-color: rgb(225, 255, 218);
 }
 
-main.xbox{
+main.xbox {
     background-color: rgb(206, 255, 132);
 }
 
-header.pc{
-    background-color: beige;
+header.pc {
+    background-color: rgb(195, 195, 195);
 }
 
-main.pc{
-    background-color: rgb(117, 117, 117);
+main.pc {
+    background-color: rgb(36, 36, 36);
+}
+
+.clase3 {
+    color: white;
 }
