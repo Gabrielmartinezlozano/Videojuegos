@@ -71,6 +71,11 @@ img.pequeña {
     width: 15px;
 }
 
+img.pc{
+    height: 120px;
+    width: 180px;
+}
+
 header.xbox {
     background-color: rgb(225, 255, 218);
 }
